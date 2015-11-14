@@ -9,7 +9,7 @@ Basic usage :
     
 Example :
 
-![screenshot](https://github.com/fjecker/status/raw/master/img/screenshot.png)
+![screenshot](https://github.com/fredjeck/status/raw/master/img/screenshot.png)
 
 Currently status allows you to use 4 different statuses :
 	
