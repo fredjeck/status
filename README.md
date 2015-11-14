@@ -24,4 +24,4 @@ A status message can be updated (text or status) until the "Done()" method is ca
 
 Please note that status relies on [ansicolor](github.com/shiena/ansicolor) to add a bit of color in its output (with a windows support)
     
-*Status was initially developped for the [gobot](http://github.com/fjecker/gobot) project and was written while learning/discovering go* 
+*Status was initially developped for the [gobot](http://github.com/fredjeck/gobot) project and was written while learning/discovering go* 
